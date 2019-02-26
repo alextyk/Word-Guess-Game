@@ -94,6 +94,7 @@
             hasFinished = true;
         }
     };
+resetGame();
    
 
 
